@@ -59,7 +59,7 @@ export const Header = () => {
                   </a>{' '}
                   and{' '}
                   <a
-                    href='https://discord.com/invite/tttGQAwuZx'
+                    href='https://discord.getsafex.co'
                     className='text-teal-accent-400'
                     target='_next'
                   >
@@ -76,7 +76,7 @@ export const Header = () => {
                   </h3>
                   {status === 'SUCCESS' ? (
                     <p className='text-primary-yellow'>
-                      Thank you for getting in touch. We will get back to you
+                      Thank you for getting in touch 🙏. We will get back to you
                       soon.
                     </p>
                   ) : (
