@@ -43,7 +43,7 @@ export const Header = () => {
                 <p className='max-w-xl mb-4 text-base text-white md:text-lg'>
                   We are working on it. In the meantime, check out our{' '}
                   <a
-                    href='http://getsafex.co/'
+                    href='https://safient.io/'
                     className='text-teal-accent-400'
                     target='_next'
                   >
@@ -51,7 +51,7 @@ export const Header = () => {
                   </a>{' '}
                   for information and join us on{' '}
                   <a
-                    href='https://twitter.com/getsafex'
+                    href='https://twitter.com/safientio'
                     className='text-teal-accent-400'
                     target='_next'
                   >
@@ -59,7 +59,7 @@ export const Header = () => {
                   </a>{' '}
                   and{' '}
                   <a
-                    href='https://discord.getsafex.co'
+                    href='https://discord.safient.io'
                     className='text-teal-accent-400'
                     target='_next'
                   >
@@ -82,7 +82,7 @@ export const Header = () => {
                   ) : (
                     <form
                       onSubmit={submitForm}
-                      action='https://formspree.io/xbjzvrkq'
+                      action='https://formspree.io/f/mgerkpko'
                       method='POST'
                     >
                       <div className='mb-1 sm:mb-2'>

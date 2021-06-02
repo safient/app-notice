@@ -5,10 +5,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Safex</title>
+        <title>Safient</title>
         <meta
           name='Description'
-          content='Safex will be up and running soon.'
+          content='Safient will be up and running soon.'
         />
       </Head>
 
